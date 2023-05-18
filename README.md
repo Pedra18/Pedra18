@@ -1,16 +1,16 @@
-### Hi there 👋
+Sellbuy-currency-bot
+Это телеграмм бот, в котором вы можете узнать курс интересующей вас валюты. 
+Бот содержит в себе такие команды:
+Курсы покупки продажи USD/EUR
+Лучшие курсы покупки и продажи USD/EUR
+Все курсы
+Курсы ЦБР
 
-<!--
-**Pedra18/Pedra18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Чтобы запустить бота введите команду:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python main.py```
+
+или просто найдите бота в телеграмм:
+
+```@sellbuy_currency_bot```
